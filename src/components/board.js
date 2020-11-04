@@ -1,7 +1,7 @@
 import React from "react";
 import { Square } from "./square";
 
-class Board extends React.Component {
+export class Board extends React.Component {
   renderSquare(i) {
     return <Square value={i} />;
   }
@@ -31,5 +31,3 @@ class Board extends React.Component {
     );
   }
 }
-
-export default Board;
