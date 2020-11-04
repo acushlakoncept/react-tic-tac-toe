@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Tic Tac Toe Game Built with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I built a Tic-tac-toe game using React, a follow along tutorial from [Tutorial: Intro to Rea](https://reactjs.org/tutorial/tutorial.html)
 
 ## Available Scripts
 
